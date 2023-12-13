@@ -57,7 +57,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 # Output
-![Uploading Screenshot 2023-12-13 220315.png…]()
+
+![Screenshot 2023-12-13 220315](https://github.com/SJananisenthilkumar/Correlation_Regression/assets/144871139/197c2dba-e754-4da2-902e-0218f1229d24)
 
 
 # Result
